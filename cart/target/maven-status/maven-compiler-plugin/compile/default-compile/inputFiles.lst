@@ -1,0 +1,14 @@
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/dto/RecipeResponse.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/CartApplication.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/controller/RecipeController.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/repository/ProdRepo.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/entity/cart.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/service/RecipeService.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/service/CartService.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/config/WebClientConfig.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/repository/CartRepo.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/dto/RecipeRequest.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/controller/Cart.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/config/RestConfig.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/entity/product.java
+/home/ratovik/Documents/labs/ServiceArch/cart/src/main/java/com/shop/cart/controller/Product.java
